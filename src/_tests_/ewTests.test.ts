@@ -40,3 +40,4 @@ afterAll (async () => {
     console.log ("Test was succesful!")
 })
 
+//Here is my test case https://dmutah.atlassian.net/browse/AG3DL-32
